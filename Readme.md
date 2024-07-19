@@ -9,5 +9,4 @@ Model Development: Implementing various time series forecasting techniques inclu
 Model Evaluation: Assessing model performance using metrics such as Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE).
 Hyperparameter Tuning: Optimizing model parameters to improve forecast accuracy.
 
-Contributors
 Priyanshu Pandey
